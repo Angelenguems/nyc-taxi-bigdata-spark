@@ -63,10 +63,10 @@ nyc-taxi-bigdata-spark/
 
 The project includes a shell script to automate pipeline execution:
 
-```bash
 ./run.sh
 
 ---
+
 ## Key Learnings
 - Designing scalable Spark pipelines
 - Handling data quality at scale
