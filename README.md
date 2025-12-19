@@ -52,26 +52,21 @@ interpretable insights from large datasets.
 ---
 
 ## Repository Structure
+
 nyc-taxi-bigdata-spark/
-
 ├── README.md
-
 ├── nyc_taxi_spark_project.py
-
 └── report/
+    └── Rapport_FINAL.pdf
 
-└── Rapport_FINAL.pdf
 
 ---
 ## Key Learnings
+- Designing scalable Spark pipelines
+- Handling data quality at scale
+- Using distributed transformations and aggregations
+- Producing interpretable analytics from large datasets
 
-Designing scalable Spark pipelines
-
-Handling data quality at scale
-
-Using distributed transformations and aggregations
-
-Producing interpretable analytics from large datasets
 
 ---
 ## Author
