@@ -58,7 +58,13 @@ nyc-taxi-bigdata-spark/
 ├── nyc_taxi_spark_project.py
 └── report/
     └── Rapport_FINAL.pdf
+---
+## Automation
 
+The project includes a shell script to automate pipeline execution:
+
+```bash
+./run.sh
 
 ---
 ## Key Learnings
